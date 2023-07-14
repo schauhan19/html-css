@@ -6,6 +6,7 @@
     --pink-color:#dc2626;
     --ow-color:#cbd5e1;
   }
+
 body{
     font-family: 'Bruno Ace SC', cursive;
 font-family: 'Roboto Mono', monospace;
@@ -31,6 +32,7 @@ hr{
     padding:0.5rem 1rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    color:white;
 }
 .link-primary{
     background-color:var(--primary-color);
@@ -56,6 +58,8 @@ hr{
     color:white;
     padding:1rem;
     border-radius: 5px;
+    margin:0;
+    padding:0;
 }
 .navigation .nav-brand{
     font-weight: bold;
